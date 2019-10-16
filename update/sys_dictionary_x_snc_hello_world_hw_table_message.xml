@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-16 10:00:45</sys_created_on>
-        <sys_id>65e84195edac00107f44f802bd7406eb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>996b0119edac00107f44f802bd7406fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Message</sys_name>
         <sys_package display_value="Hello World" source="x_snc_hello_world">2fe74d15edac00107f44f802bd74060b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hello World">2fe74d15edac00107f44f802bd74060b</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_hello_world_hw_table_message</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-16 10:02:36</sys_updated_on>
+        <sys_updated_on>2019-10-16 10:11:40</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-16 10:02:16</sys_created_on>
-            <sys_id>f7394995edac00107f44f802bd740657</sys_id>
+            <sys_created_on>2019-10-16 10:09:18</sys_created_on>
+            <sys_id>7adac9d5edac00107f44f802bd7406ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_hello_world_hw_table" sys_domain="global" view="Default view">f7390995edac00107f44f802bd740696</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-16 10:02:16</sys_updated_on>
+            <sys_updated_on>2019-10-16 10:09:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,55 @@
             <element>message</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-16 10:02:16</sys_created_on>
-            <sys_id>ff394995edac00107f44f802bd740657</sys_id>
+            <sys_created_on>2019-10-16 10:09:18</sys_created_on>
+            <sys_id>fadac9d5edac00107f44f802bd7406ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_hello_world_hw_table" sys_domain="global" view="Default view">f7390995edac00107f44f802bd740696</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-16 10:02:16</sys_updated_on>
+            <sys_updated_on>2019-10-16 10:09:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
+            <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-16 10:02:16</sys_created_on>
-            <sys_id>73394995edac00107f44f802bd740658</sys_id>
+            <sys_created_on>2019-10-16 10:09:18</sys_created_on>
+            <sys_id>7edac9d5edac00107f44f802bd7406ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_hello_world_hw_table" sys_domain="global" view="Default view">f7390995edac00107f44f802bd740696</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-16 10:02:16</sys_updated_on>
+            <sys_updated_on>2019-10-16 10:09:18</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-16 10:09:18</sys_created_on>
+            <sys_id>fedac9d5edac00107f44f802bd7406ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hello_world_hw_table" sys_domain="global" view="Default view">f7390995edac00107f44f802bd740696</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-16 10:09:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-16 10:13:08</sys_created_on>
+            <sys_id>47bb4559edac00107f44f802bd740670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hello_world_hw_table" sys_domain="global" view="Default view">f7390995edac00107f44f802bd740696</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-16 10:13:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
